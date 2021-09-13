@@ -4,7 +4,7 @@ My greatest passion is studying new technologies 🧪 and my goal is to create s
 
 I enjoy working in team with people who support each other 🤝
 
-I believe in a futurse where technology 📱 is in symbiosis with the environment 🌿
+I believe in a future where technology 📱 is in symbiosis with the environment 🌿
 
 ## My Skills
 

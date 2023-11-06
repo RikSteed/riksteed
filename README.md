@@ -45,6 +45,7 @@ I believe in a future where technology 📱 is in symbiosis with the environment
 #### Design
 <div>
   <img alt="affinitydesigner" src="https://img.shields.io/badge/Affinity Designer-0FAAFF?style=flat-square&logo=Affinity Designer&logoColor=white" />
+  <img alt="aseprite" src="https://img.shields.io/badge/Aseprite-orange?style=flat-square&logo=aseprite&logoColor=white" />
 </div>
 
 
